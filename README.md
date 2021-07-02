@@ -3,7 +3,7 @@
 <h3>Workshop Day wise Content :</h3>
 <ol start="1">
  <li>
-Day1 – Inception of open-source EDA, OpenLANE and Sky130 PDK
+  <h4>Day1 – Inception of open-source EDA, OpenLANE and Sky130 PDK</h4>
  </li>
 </ol>
 <ul>
@@ -16,7 +16,7 @@ How to talk to computers  </li>
 </ul>
 <ol start="2">
  <li>
-Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells
+<h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
  </li>
 </ol>
 <ul>
@@ -29,7 +29,7 @@ Chip Floor planning considerations</li>
  </ul>
  <ol start="3">
  <li>
-Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice
+<h4>Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice</h4>
  </li>
 </ol>
 <ul>
@@ -41,7 +41,7 @@ Sky130 Tech File Labs
  </ul>
    <ol start="4">
  <li>
-Day 4 - Pre-layout timing analysis and importance of good clock tree
+<h4>Day 4 - Pre-layout timing analysis and importance of good clock tree</h4>
  </li>
 </ol>
   <ul>
@@ -54,7 +54,7 @@ Timing modelling using delay tables </li>
     </ul>
       <ol start="5">
  <li>
-Day 5 - Final steps for RTL2GDS
+<h4>Day 5 - Final steps for RTL2GDS</h4>
   </li>
 </ol>
 <ul>
