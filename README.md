@@ -1,4 +1,4 @@
-<h2>Advanced Physical Design using OpenLANE/Sky130<br> 5-Day online mode workshop<br> By<br> VLSI System Design, Banglore, India.</h2>
+<h2>Advanced Physical Design using OpenLANE/Sky130<br> <p align="center">5-Day online mode workshop</p><br> <p align="center">By</p><br> <p align="center">VLSI System Design, Banglore, India.</p></h2>
 
 <h3>Workshop Day wise Content :</h3>
 <ol start="1">
