@@ -102,7 +102,7 @@ Fig. 8 Figure shows the various process corners<br/>
 <br/><b>openlane terminal needs to be launched from being in the openlane directory, which is shown in the figure below</b><br/>
 <br/><img src="day1/11 invoke openlane terminal from openlane dir.PNG">
 <br/>Fig.9 Figure shows oipenlane directory.<br/>
-<br/><b>From the openlane directory type the command "make mount"</b>
+<br/><b>From the openlane directory type the command "make mount"</b><br/>
 <img src="day1/12 invoking command.PNG">
 Fig. 10 Figure shows the command "make mount"
 
