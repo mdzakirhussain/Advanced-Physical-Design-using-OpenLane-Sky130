@@ -98,8 +98,8 @@ Fig.4 It shows the 3 types of PDKs<br/>
 Fig.7 It shows the contents of sky130_fd_sc_hd<br/>
 <br/><b>The sky130_fd_sc_hd contains various process corners, which are shown in the figure below</b><br/>
 <br/><img src="day1/9 process corners in the lib.PNG">
-Fig. 8 Figure shows the various process corners
-<b>openlane terminal needs to be launched from being in the openlane directory, which is shown in the figure below</b><br/>
+Fig. 8 Figure shows the various process corners<br/>
+<br/><b>openlane terminal needs to be launched from being in the openlane directory, which is shown in the figure below</b><br/>
 <br/><img src="day1/11 invoke openlane terminal from openlane dir.PNG">
-Fig.9 Figure shows oipenlane directory.
+<br/>Fig.9 Figure shows oipenlane directory.
 
