@@ -72,9 +72,9 @@ Routing and design rule check (DRC) </li>
 
 <img src="day1/1 terminal.JPG">
 Fig.1 This is the terminal window.
-<br><img src="day1/2. go to the working directory.JPG">
+<br> <img src="day1/2. go to the working directory.JPG">
 Fig.2 In the terminal window being in tools diretory do "ls" to list the files and folders.
-<br>In the fig.2 we can see two folders.<br>
+<br> In the fig.2 we can see two folders. <br>
 <ol>
 <li>openlane</li>
  <li>pdks</li>
