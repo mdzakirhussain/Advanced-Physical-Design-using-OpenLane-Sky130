@@ -121,5 +121,5 @@ Fig. 14-b Synthesis Results<br/>
 <br/><img src="day1/18 synth3.PNG"><br/>
 <br/>Fig. 14-c Synthesis Results<br/>
 
-
+<h4>To run the floorplan</h4>
 
