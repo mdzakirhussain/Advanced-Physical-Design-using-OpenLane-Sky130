@@ -63,3 +63,19 @@ Routing and design rule check (DRC) </li>
 <li>PNR interactive flow tutorial
  </li>
   </ul>
+
+<ol start="1">
+ <li>
+  <h4>Day1 – Inception of open-source EDA, OpenLANE and Sky130 PDK</h4>
+ </li>
+</ol>
+
+<img src="Advanced-Physical-Design-using-OpenLane-Sky130/day1/1 terminal.JPG">
+Fig.1 This is the terminal window.<br>
+<img src="Advanced-Physical-Design-using-OpenLane-Sky130/day1/2. go to the working directory.JPG">
+Fig.2 In the terminal window being in tools diretory do "ls" to list the files and folders<br>
+In the fig.2 we can see two folders<br>
+<ol>
+<li>openlane</li>
+ <li>pdks</li>
+</ol>
