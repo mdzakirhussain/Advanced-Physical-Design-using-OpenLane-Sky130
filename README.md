@@ -126,4 +126,6 @@ Fig. 14-b Synthesis Results<br/>
 <h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
  </li>
 </ol>
-
+<h4>To run the floor plan</h4>
+<img src="day2/1. run floor plan.png">
+Fig.1 Figure shows the command to run the floorplan
