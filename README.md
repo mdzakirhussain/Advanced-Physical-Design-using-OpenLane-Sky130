@@ -105,4 +105,20 @@ Fig. 8 Figure shows the various process corners<br/>
 <br/><b>From the openlane directory type the command "make mount"</b><br/>
 <br/><img src="day1/12 invoking command.PNG"><br/>
 Fig. 10 Figure shows the command "make mount"
+<b>To start the flow in interactive way type the way shown in the below figure"</b><br/>
+<br/><img src="day1/13 after invoking pre design.PNG"><br/>
+Fig.11 Figure shows the command for making the tool interactive.<br/>
+<br/><img src="day1/14 after prep.png"><br/>
+Fig.12 Figure shows the preparation stage which creates necessary directories.</br>
+<br/><img src="day1/15 run synth.png"><br/>
+Fig. 13 Figure shows the synthesis command<br/>
+<br/><img src="day1/16 synth1.PNG">
+Fig. 14-a Synthesis Results<br/>
+<br/><img src="day1/17 synth2.PNG">
+Fig. 14-b Synthesis Results<br/>
+
+<br/><img src="day1/18 synth3.PNG">
+Fig. 14-c Synthesis Results<br/>
+
+
 
