@@ -100,5 +100,6 @@ Fig.7 It shows the contents of sky130_fd_sc_hd<br/>
 <br/><img src="day1/9 process corners in the lib.PNG">
 Fig. 8 Figure shows the various process corners
 <b>openlane terminal needs to be launched from being in the openlane directory, which is shown in the figure below</b><br/>
-<img src="day1/11 invoke openlane terminal from openlane dir.PNG">
+<br/><img src="day1/11 invoke openlane terminal from openlane dir.PNG">
+Fig.9 Figure shows oipenlane directory.
 
