@@ -93,6 +93,8 @@ Fig.4 It shows the 3 types of PDKs<br/>
 <br/>Fig.5 It shows the contents of sky130A and libs.tech<br/>
 <br/><img src="day1/7 inside libs.ref.PNG">
 <br/>Fig.6 It shows the contents of libs.ref
-
+<b>The library used from the sky130A pdk is sky130_fd_sc_hd</b><br/>
+<br/><img src="day1/8 lib we are working with.PNG">
+Fig.7 It shows the contents of sky130_fd_sc_hd<br/>
 
 
