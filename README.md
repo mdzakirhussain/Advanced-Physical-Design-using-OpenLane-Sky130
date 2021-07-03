@@ -16,7 +16,7 @@ How to talk to computers  </li>
 </ul>
 <ol start="2">
  <li>
-<h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
+<h4><a href="https://github.com/mdzakirhussain/Advanced-Physical-Design-using-OpenLane-Sky130#day-2---understand-importance-of-good-floorplan-vs-bad-floorplan-and-introduction-to-library-cells-1">Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</a></h4>
  </li>
 </ol>
 <ul>
