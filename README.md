@@ -110,6 +110,7 @@ Fig. 10 Figure shows the command "make mount"
 Fig.11 Figure shows the command for making the tool interactive.<br/>
 <br/><img src="day1/14 after prep.png"><br/>
 Fig.12 Figure shows the preparation stage which creates necessary directories.</br>
+<h4>To run the synthesis</h4>
 <br/><img src="day1/15 run synth.png"><br/>
 Fig. 13 Figure shows the synthesis command<br/>
 <br/><img src="day1/16 synth1.PNG">
