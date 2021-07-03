@@ -121,5 +121,9 @@ Fig. 14-b Synthesis Results<br/>
 <br/><img src="day1/18 synth3.PNG"><br/>
 <br/>Fig. 14-c Synthesis Results<br/>
 
-<h4>To run the floorplan</h4>
+<ol start="2">
+ <li>
+<h4>Day 2 - Understand importance of good floorplan vs bad floorplan and introduction to library cells</h4>
+ </li>
+</ol>
 
