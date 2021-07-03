@@ -118,7 +118,7 @@ Fig. 14-a Synthesis Results<br/>
 Fig. 14-b Synthesis Results<br/>
 
 <br/><img src="day1/18 synth3.PNG"><br/>
-Fig. 14-c Synthesis Results<br/>
+<br/>Fig. 14-c Synthesis Results<br/>
 
 
 
