@@ -82,6 +82,9 @@ Fig.2 In the terminal window being in tools diretory do "ls" to list the files a
 <b>To Launch the tool</b><br/>
 <br/><img src="day1/4. openlane terminal.JPG">
 <br/>Fig.3 In the fig. to launch the openlane command "make mount"<br/>
-<br/><b>Types of PDKs(process Design Kit)</b><br/>
+<br/><b>Types of PDKs(Process Design Kit)</b><br/>
 <br/><img src="day1/5 types of pdks.PNG">
+Fig.4 It shows the 3 types of PDKs<br/>
+<br/>In the figure 4 it seen that there three types of pdks<br/>
+<ol><li>skywater-pdk</li><li>open-pdks</li><li>sky130A</li></ol>
 
