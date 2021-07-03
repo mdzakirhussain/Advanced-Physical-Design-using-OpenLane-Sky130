@@ -86,5 +86,11 @@ Fig.2 In the terminal window being in tools diretory do "ls" to list the files a
 <br/><img src="day1/5 types of pdks.PNG">
 Fig.4 It shows the 3 types of PDKs<br/>
 <br/>In the figure 4 it seen that there three types of pdks<br/>
-<ol><li>skywater-pdk</li><li>open-pdks</li><li>sky130A</li></ol>
+<ol><li>skywater-pdk</li><li>open-pdks</li><li>sky130A</li></ol><br/>
+<b>PDK used in this Lab is sky130A</b><br/>
+<p>This sky130A pdk contains <b>libs.tech,</b> and <b>libs.ref</b></p>
+<img src="day1/6 inside libs.tech.PNG">
+<br/>Fig.5 It shows the contents of sky130A
+
+
 
