@@ -129,3 +129,6 @@ Fig. 14-b Synthesis Results<br/>
 <h4>To run the floor plan</h4>
 <img src="day2/1. run floor plan.png">
 Fig.1 Figure shows the command to run the floorplan
+<h4> Visualize the floorplan done in the magic</h4>
+<img src="day2/2. to see after floorplan command in magic.png">
+Fig.2 Figure shows the command to visualize the floorplan in the magic tool
