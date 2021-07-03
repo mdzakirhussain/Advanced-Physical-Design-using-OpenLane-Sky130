@@ -79,6 +79,6 @@ Fig.2 In the terminal window being in tools diretory do "ls" to list the files a
 <li>openlane</li>
  <li>pdks</li>
 </ol><br/>
-<b> To Launch the tool </b>
-<img src="day1/4. openlane terminal.JPG"><br/>
+<b>To Launch the tool</b><br/>
+<br/><img src="day1/4. openlane terminal.JPG">
 <br/>Fig.3 In the fig. to launch the openlane command "make mount"
