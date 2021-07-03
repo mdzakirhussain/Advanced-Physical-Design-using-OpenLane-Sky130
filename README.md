@@ -96,7 +96,8 @@ Fig.4 It shows the 3 types of PDKs<br/>
 <br/><b>The library used from the sky130A pdk is sky130_fd_sc_hd</b><br/>
 <br/><img src="day1/8 lib we are working with.PNG">
 Fig.7 It shows the contents of sky130_fd_sc_hd<br/>
-<b>The sky130_fd_sc_hd contains various process corners, which are shown in the figure below</b><br/>
+<br/><b>The sky130_fd_sc_hd contains various process corners, which are shown in the figure below</b><br/>
 <br/><img src="day1/9 process corners in the lib.PNG">
+Fig. 8 Figure shows the various process corners
 
 
