@@ -81,7 +81,7 @@ Fig.2 In the terminal window being in tools diretory do "ls" to list the files a
 </ol><br/>
 <b>To Launch the tool</b><br/>
 <br/><img src="day1/4. openlane terminal.JPG">
-<br/>Fig.3 In the fig. to launch the openlane command "make mount"<br/>
+<br/>Fig.3, to launch the openlane type the command "make mount"<br/>
 <br/><b>Types of PDKs(Process Design Kit)</b><br/>
 <br/><img src="day1/5 types of pdks.PNG">
 Fig.4 It shows the 3 types of PDKs<br/>
@@ -99,5 +99,6 @@ Fig.7 It shows the contents of sky130_fd_sc_hd<br/>
 <br/><b>The sky130_fd_sc_hd contains various process corners, which are shown in the figure below</b><br/>
 <br/><img src="day1/9 process corners in the lib.PNG">
 Fig. 8 Figure shows the various process corners
-
+<b>openlane terminal needs to be launched from being in the openlane directory, which is shown in the figure below</b><br/>
+<img src="day1/11 invoke openlane terminal from openlane dir.PNG">
 
