@@ -103,6 +103,6 @@ Fig. 8 Figure shows the various process corners<br/>
 <br/><img src="day1/11 invoke openlane terminal from openlane dir.PNG">
 <br/>Fig.9 Figure shows oipenlane directory.<br/>
 <br/><b>From the openlane directory type the command "make mount"</b><br/>
-<br/><img src="day1/12 invoking command.PNG">
+<br/><img src="day1/12 invoking command.PNG"><br/>
 Fig. 10 Figure shows the command "make mount"
 
