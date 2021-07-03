@@ -90,7 +90,9 @@ Fig.4 It shows the 3 types of PDKs<br/>
 <b>PDK used in this Lab is sky130A</b><br/>
 <br/><p>This sky130A pdk contains <b>libs.tech,</b> and <b>libs.ref</b></p>
 <img src="day1/6 inside libs.tech.PNG">
-<br/>Fig.5 It shows the contents of sky130A
+<br/>Fig.5 It shows the contents of sky130A and libs.tech
+<img src="day1/7 inside libs.ref.PNG">
+<br/>Fig.6 It shows the contents of libs.ref
 
 
 
