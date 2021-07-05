@@ -128,7 +128,15 @@ Fig. 14-b Synthesis Results<br/>
 </ol>
 <h4>To run the floor plan</h4>
 <img src="day2/1. run floor plan.png">
-Fig.1 Figure shows the command to run the floorplan
+Fig. 1 Figure shows the command to run the floorplan
 <h4> Visualize the floorplan done in the magic</h4>
 <img src="day2/2. to see after floorplan command in magic.png">
-Fig.2 Figure shows the command to visualize the floorplan in the magic tool
+Fig. 2 Figure shows the command to visualize the floorplan in the magic tool
+<img src="day2/3 floorplanned_1.png">
+Fig. 3 Figure shows complete floorplan of the design picorv32a
+<img src="day2/4 floorplanned_2 Horizontal io.png">
+Fig. 4 Figure shows the horizontal IO
+<img src="day2/5 floorplanned_3 vertical io.png">
+Fig. 5 Figure shows the vertical IO
+<img src="day2/6 standard cells after florr plan.png">
+Fig. 6 Figure shows the standard cells after floorplan done
