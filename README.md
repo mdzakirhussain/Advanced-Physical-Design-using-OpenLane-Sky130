@@ -140,3 +140,10 @@ Fig. 4 Figure shows the horizontal IO
 Fig. 5 Figure shows the vertical IO
 <img src="day2/6 standard cells after florr plan.png">
 Fig. 6 Figure shows the standard cells after floorplan done
+<h4>To run the placement</h4>
+<img src="day2/7 global placement.png">
+Fig. 1 Figure shows the command to run the placement
+<img src="day2/8 after placement.png">
+Fig. 2 Figure shows the command to visualize the placement in the magic tool
+<img src="day2/8 after placement_2.png">
+Fig. 3 Figure shows placement done in the magic tool
