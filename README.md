@@ -147,3 +147,9 @@ Fig. 1 Figure shows the command to run the placement
 Fig. 2 Figure shows the command to visualize the placement in the magic tool
 <img src="day2/8 after placement_2.png">
 Fig. 3 Figure shows placement done in the magic tool
+<br/>
+ <ol start="3">
+ <li>
+<h4>Day 3 - Design and characterize one library cell using Magic Layout tool and ngspice</h4>
+ </li>
+</ol>
