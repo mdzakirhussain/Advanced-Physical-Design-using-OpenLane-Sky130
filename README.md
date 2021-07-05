@@ -173,3 +173,27 @@ Fig. 7 Figure shows the simulation done using ngspice for the inverter design
 <h4>Day 4 - Pre-layout timing analysis and importance of good clock tree</h4>
  </li>
 </ol>
+<img src="day4/1 invoke magic for inverter design.png">
+Fig.1 Figure shows the inverter design in the magic tool
+<img src="day4/2 layout inverter.png">
+Fig. 2 Figure shows the layout of the design in the magic tool
+<img src="day4/3 grid command.png">
+Fig. 3 Figure shows the grid command, it is for the purpose of creating LEF file
+<img src="day4/4 step1 label to port.png">
+Fig. 4-1 Figure shows the process to convert Labels to Ports
+<img src="day4/5 step2.png">
+Fig. 4-2 Figure shows the process to convert Labels to Ports
+<img src="day4/6 lef file.png">
+Fig. 5 Command to generate LEF file
+<img src="day4/7 edit config dot tcl file.png">
+Fig. 6 Figure shows editing of the config dot tcl file to run the custom built cells
+<img src="day4/8 files required in src folder.png">
+Fig. 7 Figure shows the required files that are required in the src folder of the design
+<img src="day4/9 prepare the design.png">
+Fig. 8 Figure shows the design preparation for synthesis and other steps
+<img src="day4/10 after placement and routing read in magic.png">
+Fig. 9 Figure shows the placed logic in the magic layout tool
+<img src="day4/11 routed.png">
+Fig. 10 Figure shows the routed design
+<img src="day4/12 custom cell.png">
+Fig. 11 Figure shows our custom cell
