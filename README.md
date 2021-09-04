@@ -1,6 +1,3 @@
-<h2><p align="center">Advanced Physical Design using OpenLANE/Sky130</p><p align="center">5-Day online mode workshop</p><p align="center">By</p><p align="center">VLSI System Design, Banglore, India.</p></h2>
-
-<h3>Workshop Day wise Content :</h3>
 <ol start="1">
  <li>
   <h4><a href="https://github.com/mdzakirhussain/Advanced-Physical-Design-using-OpenLane-Sky130/blob/main/README.md#day1--inception-of-open-source-eda-openlane-and-sky130-pdk-1" >Day1 – Inception of open-source EDA, OpenLANE and Sky130 PDK</a></h4>
